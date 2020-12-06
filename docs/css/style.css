@@ -727,6 +727,16 @@ a:hover {
   margin-bottom: 2rem;
 }
 
+.profile-pic img {
+  width: 100%;
+  height: auto;
+}
+
+.column img {
+  width: 100%;
+  height: auto;
+}
+
 .about-mf .about-img img {
   margin-left: 10px;
 }
