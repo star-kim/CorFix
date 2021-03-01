@@ -242,7 +242,7 @@ a:hover {
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 500px;
+  height: 100%;
   padding: 1rem 1rem;
    /* Should be removed. Only for demonstration */
 }
@@ -727,16 +727,6 @@ a:hover {
   margin-bottom: 2rem;
 }
 
-.profile-pic img {
-  width: 100%;
-  height: auto;
-}
-
-.column img {
-  width: 100%;
-  height: auto;
-}
-
 .about-mf .about-img img {
   margin-left: 10px;
 }
@@ -958,12 +948,12 @@ a:hover {
 .card-blog .card-title {
   font-size: 1.3rem;
   margin-top: .6rem;
-  height: 150px;
+  height: 100%;
 }
 
 .card-blog .card-description {
   color: #4e4e4e;
-  height: 50px;
+  height: 100%;
 }
 
 .card-blog .post-author {
